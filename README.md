@@ -1,6 +1,6 @@
 ![FIP LOGO](images/logo.png)
 
-# ALEX + KEITHS (FIP)
+# ALEX+KEITHS (FIP)
 
 ### Description
   The concept of this website was to mix and mash two vastly different company identities (Alexander Keith's and BLACK+DECKER) into a single beer company while maintaining both signature design styles. The files included here are only the required files needed to view the final responsive 5-page result.
