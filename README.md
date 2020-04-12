@@ -1,4 +1,4 @@
-![FIP LOGO](images/AlexKeiths_Logo.svg)
+![FIP LOGO](images/Logo.png)
 
 # ALEX + KEITHS (FIP)
 
